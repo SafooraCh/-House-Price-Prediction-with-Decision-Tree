@@ -64,5 +64,5 @@ Created for Lab 09 - Machine Learning course to demonstrate:
 Educational project - Free to use and modify
 
 ## 👨‍💻 Author
-[Your Name]
-Lab 09 - Decision Tree Assignment
+[Safoora]
+
